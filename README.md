@@ -1,6 +1,6 @@
-# Prithvi 2.0 100M Model Inference
+# Prithvi 2.0 300M Model Inference
 
-This project demonstrates how to run inference using the Prithvi 2.0 100M model with raster TIF files.
+This project demonstrates how to run inference using the Prithvi 2.0 300M model with raster TIF files.
 
 ## Setup
 
@@ -16,8 +16,8 @@ uv sync
 ```
 
 ## Contents
-- `inference.py`: Python script for running inference using the Prithvi 2.0 100M model
-- `prithvi_inference.ipynb`: Jupyter notebook for exploring the Prithvi 2.0 100M model
+- `inference.py`: Python script for running inference using the Prithvi 2.0 300M model
+- `prithvi_inference.ipynb`: Jupyter notebook for exploring the Prithvi 2.0 300M model
 - `requirements.txt`: Dependencies required for the project
 
 ## Usage
@@ -28,4 +28,4 @@ uv sync
 
 ## About Prithvi 2.0
 
-Prithvi 2.0 is a foundation model for geospatial AI developed by IBM and NASA. The 100M version is a smaller variant that can be used for various geospatial tasks including classification and feature extraction from satellite imagery.
+Prithvi 2.0 is a foundation model for geospatial AI developed by IBM and NASA. The 300M version is a smaller variant that can be used for various geospatial tasks including classification and feature extraction from satellite imagery.
